@@ -12,9 +12,11 @@ Los limites en un inicio es lo mas pelaisimo, ya que solo consiste sustituir el 
 
 Ejemplo: Determina el valor de los siguiente limites      easy
 1) lim (7-2x) = (7-2(2)) = 3
+
    x->2
 
 2) lim (4x^2 - 2x - 6) = (4(3)^2 - 2(3) - 6) = 24
+
    x->3
 
 
