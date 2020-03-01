@@ -20,4 +20,8 @@ Ejemplo: Determina el valor de los siguiente limites      easy
    x->3
 
 
-3)
+3) lim (x^2 - 8)(4x - 8)               haha pero despues viene el profe con esta vaina y te arruina la   
+   x->4                                confianza xd, Haganlo dudes solo digo que la respuesta es 64, esta mas 
+                                       sencillo de lo que creen, o a lo mejor ando haciendola de a pedo y en realidad saben hacerla con la mind alv. A por cierto.... Escoria sin sentido en la vida, mamberroi, chamaco pendejo, marcelo el quien use una aplicacion para hacer cualquier vaina de aqui
+
+                                    
