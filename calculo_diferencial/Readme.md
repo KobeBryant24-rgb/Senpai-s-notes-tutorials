@@ -25,8 +25,17 @@ Ejemplo: Determina el valor de los siguiente limites      easy
  En este caso solo se debe multiplicar primero ambos terminos y, al resultado evaluarlo con el numero de limite y os dara el resultado
 
  Bien basicamente este es la base de los limites, sin embargo existen otros tipos dependiendo de el contexto en que se de.
+[Video que les podria interesar de este tipo de limite](https://www.youtube.com/watch?v=3Szyq5r3Sdw)
 
  ## Limites indeterminados
 Este tipo de limite se da cuando al evaluar un limite como resultado da infinito, a partir de aqui necesitareis las diferentes identidades de todos los limites que hay, para que en caso de que un limite dase infinito, poder cambiarlo para que de un numero real por ejemplo:
 
+#1.-lim = 3x^2 + 5x^4/2x^2 + 6x^4 -7x^6 = x^2(3+5x^2)/x^2(2+6x^2-7x^6) = 3=5x^2/2+6x^2-7x^6 = 3+5(0)^2/2+6x^2-7x^6 
+x->0                                  
+lim 3x^2 + 5x^4/2x^2 + 6x^4 -7x^6 = 3/2<---- este seria el resultado.
+x->0
+nota: los "/" son divisiones, solo que no se como poner aqui una division.
+
+2.-lim= x^3-8/2x^2-3x-2 = (x-2)(x^2+2x+4)/(x-2)(2x+1) {se eliminan los x-2} = x^2+2x+4/2x+1 = 12/5<--resultado
+x->2 
                                     
