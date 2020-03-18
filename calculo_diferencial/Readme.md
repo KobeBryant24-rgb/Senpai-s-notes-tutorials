@@ -24,4 +24,9 @@ Ejemplo: Determina el valor de los siguiente limites      easy
    x->4                         
  En este caso solo se debe multiplicar primero ambos terminos y, al resultado evaluarlo con el numero de limite y os dara el resultado
 
+ Bien basicamente este es la base de los limites, sin embargo existen otros tipos dependiendo de el contexto en que se de.
+
+ ## Limites indeterminados
+Este tipo de limite se da cuando al evaluar un limite como resultado da infinito, a partir de aqui necesitareis las diferentes identidades de todos los limites que hay, para que en caso de que un limite dase infinito, poder cambiarlo para que de un numero real por ejemplo:
+
                                     
