@@ -22,6 +22,6 @@ Ejemplo: Determina el valor de los siguiente limites      easy
 
 3) lim (x^2 - 8)(4x - 8)               
    x->4                         
-   haha pero despues viene el profe con esta vaina y te arruina la confianza xd, Haganlo dudes solo digo que la respuesta es 64, esta mas sencillo de lo que creen, o a lo mejor ando haciendola de a pedo y en realidad saben hacerla con la mind alv. A por cierto.... Escoria sin sentido en la vida, mamberroi, chamaco pendejo, marcelo el quien use una aplicacion para hacer cualquier vaina de aqui, aqui se resuelve a puro putazo, asi nos enseñaron a nosotros alv
+ En este caso solo se debe multiplicar primero ambos terminos y, al resultado evaluarlo con el numero de limite y os dara el resultado
 
                                     
