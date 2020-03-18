@@ -52,12 +52,19 @@ La etica tiene unicamente dedicacion al ser humano en este se desprende la moral
 Es el conjunto de conocimientos objetivos mediante la observacion y el razonamiento, sistematicamente estructurados de los cuales se deducen principios y leyes generales para explicar, predecir y describir los fenomenos.
 La tecnologia es el conjunto de conocimientos tecnicas ordenadas cientificamente que permiten construir objetos y maquinas para adaptar el medio y satisfacer las necesidades de las personas.
 
-# Caracteristicas de la ciencia
+## Caracteristicas de la ciencia
 Factica, trasciende los hechos, analitica, especializada, clara y precisa, comunicable, empirica, metodica, preductiva,etc..
 
-# Implicaciones eticas de las investigaciones cientificas
+## Implicaciones eticas de las investigaciones cientificas
 "La ciencia y la tecnologia sin orientacion etica son un peligro para la humanidad"
 "Todas las practicas profesionales se deben a un codigo etico, donde la investigacion cientifica no es una excepcion"
 -Derecho de participacion en la investigacion: Toda persona interesada en formar parte de una investigacion tiene derecho a aceptar o declinar.
 -La experimentacion con animales.
--Todo proyecto de investigacion que manipule vidas
+-Todo proyecto de investigacion que manipule vidas humanas o animales como parte de sus etapas de experimentacion puede llegar a crear cierta insensibilidad por el bienestar y la vida de los seres.
+
+## Limites eticos de la investigacion cientifica
+Limites en los fines: Esta claro que una investigacion que tenga como objetivo destruir vidas debe quedar totalmente fuera de nuestro horizonte. Por desgracia es algo que se hizo en la Alemania.
+
+Limites en los medios: Una vieja sentencia afirma que un fin bueno no puede justificar un medio malo. Curar a una persona que tiene graves problemas de riñones no puede permitir el que se elimine a un enfermo mas o menos grave que puede convertirse asi, el donante anonimo de un riñon hara feliz a otro.
+
+Limites en los resuktados y en los costos economicos y sociales: Cada acto que realizamos implica un pequelo cambio ene l planeta. Si extiste un gran riesgo por difundir en la especie humana un virus peligroso, el cientifico sabe que no puede poner en marcha procesos experimentales que podrian esparasele de las manos
