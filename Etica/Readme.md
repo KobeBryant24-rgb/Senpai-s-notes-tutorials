@@ -67,4 +67,51 @@ Limites en los fines: Esta claro que una investigacion que tenga como objetivo d
 
 Limites en los medios: Una vieja sentencia afirma que un fin bueno no puede justificar un medio malo. Curar a una persona que tiene graves problemas de riñones no puede permitir el que se elimine a un enfermo mas o menos grave que puede convertirse asi, el donante anonimo de un riñon hara feliz a otro.
 
-Limites en los resuktados y en los costos economicos y sociales: Cada acto que realizamos implica un pequelo cambio ene l planeta. Si extiste un gran riesgo por difundir en la especie humana un virus peligroso, el cientifico sabe que no puede poner en marcha procesos experimentales que podrian esparasele de las manos
+Limites en los resuktados y en los costos economicos y sociales: Cada acto que realizamos implica un pequelo cambio ene l planeta. Si extiste un gran riesgo por difundir en la especie humana un virus peligroso, el cientifico sabe que no puede poner en marcha procesos experimentales que podrian esparasele de las manos.
+
+## Bioetica
+Tiene relacion con la tecnoetica pero este se encarga de cosas mas naturales y puede afectar al ser humano es por eso que la etica se aplica en este ambito para poder tener limites y que se pueda manifestar un trabajo de forma natural.
+
+
+## Tecnoetica
+Es o son todos aquellos valores que se deben aplicar en el a,bito tecnologico, esto se debe mantener conciente en todos aquellas personas las cuales dia con dia trabajan con una maquina para la ayuda humana para poder evitar desastres en la naturalez que afecte moralmente la vida
+
+
+## Caracteristicas del tecnologo
+El tecnologo enfrente un problema objetivo, lo estudia, lo organiza y utiliza el conocimiento para construir la solucion. El tecnologo es un agente moral aun cuando sus decisiones y actos sean tachados de inmorales por aquellos que son perjudiciados por estos.
+
+
+# Implicaciones eticas en la tecnologia
+## Aspectos biologicos
+La tecnologia genetica es una de las mas destacadas y controversiales, tanto en su aplicacion en humanos como en la agricultura, por las alteraciones geneticas que provoca. El proceso de cortar y dividir gemes em tubos de ensayo en sus inicios fue exitoso. Pero despues pueden ocurrir mutaciones que alteren el funcionamiento natural de los genes con potenciales consecuencias dañinas; es por esto que este tipo midan su impacto en la naturaleza y los seres humanos.
+
+## Aspectos laborales
+Los robots, el software y la automatizacion, tienen la capacidad de sustituir el trabajo que realizan las personas en una fabrica de automoviles o en una agenia de viajes. Analistas afiman que el ritmo de destruccion de empleos por la tecnologia es mayor que la tasa de creacion.
+
+## Aspectos geograficos
+Los problemas locales pueden ser generados por la instalacion de plantas de tecnologia altamente contaminantes del aire y las aguas en determinadas ciudades.
+
+## La etica en el ejercicio de la profesion
+Profesion: Ser capaz y apto de realizar una actividad o trabajo (trabajo de ser apto en una actividad).
+
+Profesional: Una persona capaz de ser y mantener un trabajo a partir de conocimientos generales previos que la persona estudio o experimento.
+
+La etica profesional es el conjunto de deberes y obligaciones que adquiere el individuo en el ejercicio de la profesion ante si mismo, los colegas de la profesion y la sociedad.
+
+## Caracteristicas de una profesion
+-Preparacion especializada: Toda profesion implica una preparacion humanistica, cientifica, especializada y calificada que se debe reglejar en el conocimiento teorico y sistematico.
+
+-El servicio a los demas: El profesional pone sus conocimientos y competencias al servicio de los que necesitan de esa competencia a cambio de una compensacion economica.
+
+-Renumeracion economica: El ejercicio de una profesion trae una recompensa, esta es economica, la misma que permitira la subsistencia profesional.
+
+## Tipos de liderazgo
+-Liderazgo organizaional: Es el ambito de liderazgo que atiende a los lideres de las organizaciones/ empresas, es decir en el area profesional.
+
+-Liderazgo natural: Se dice que es lider natura, a los que no son reconidos como tal con un titulo pero se representa un "rol" a la perfeccion
+
+-Liderazgo autoritario/autocratico: Se basa en la autoridad del lider y de nadie mas.
+
+-Liderazgo carismatico: Genera y trabaja mucho sobre sentimientos y sensaciones positivas dentro del grupo.
+
+# La etica en las instituciones y organizaciones
